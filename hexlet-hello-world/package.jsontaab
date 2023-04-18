@@ -1,0 +1,19 @@
+{
+  "name": "asya",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hexlet-js"
+  },
+  "keywords": [
+    "SHA256:6y01W2143AdmiElwYvlQVQxAZZZDa7pSMo859ZO/SVE"
+  ],
+  "author": "Asya",
+  "license": "ISC"
+}
